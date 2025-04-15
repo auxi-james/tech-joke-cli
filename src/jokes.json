@@ -1,0 +1,39 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "setup": "Why do programmers prefer dark mode?",
+      "punchline": "Because light attracts bugs!"
+    },
+    {
+      "id": 2,
+      "setup": "Why do Java developers wear glasses?",
+      "punchline": "Because they don't C#!"
+    },
+    {
+      "id": 3,
+      "setup": "What's a programmer's favorite place in the house?",
+      "punchline": "The living ROM!"
+    },
+    {
+      "id": 4,
+      "setup": "Why did the programmer quit his job?",
+      "punchline": "Because he didn't get arrays!"
+    },
+    {
+      "id": 5,
+      "setup": "What do you call a programmer from Finland?",
+      "punchline": "Nerdic!"
+    },
+    {
+      "id": 6,
+      "setup": "How many programmers does it take to change a light bulb?",
+      "punchline": "None, that's a hardware problem!"
+    },
+    {
+      "id": 7,
+      "setup": "Why do programmers always mix up Halloween and Christmas?",
+      "punchline": "Because Oct 31 == Dec 25!"
+    }
+  ]
+}
